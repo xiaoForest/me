@@ -2,7 +2,7 @@
 
 #### Platform&Tools
 
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+<!-- [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/NAS-FreeNas-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)](https://www.freenas.org/)
@@ -38,10 +38,8 @@
 [![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff)](https://www.figma.com/)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
 
-
+ -->
 <br/>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoForest) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoForest&hide=javascript,css,php,shell,html)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoForest&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
